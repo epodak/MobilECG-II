@@ -1,0 +1,1 @@
+We are going to release the PCB when we have a prototype with all its functions working.
